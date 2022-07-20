@@ -9,7 +9,7 @@ require (
 	github.com/containers/image/v5 v5.5.0
 	github.com/googleapis/gnostic v0.2.2 // indirect
 	github.com/satori/go.uuid v1.2.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/viper v1.8.1
 	gotest.tools v2.2.0+incompatible
 	k8s.io/api v0.20.6
